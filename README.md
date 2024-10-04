@@ -1,6 +1,13 @@
 # Excel-Based-Data-Analysis-Project
 This repository showcases my ability to work with organizational data using Excel tools, pivot tables, and dashboards. My goal is to present meaningful insights into company performance and demonstrate my skills in data analysis and visualization.
 
+## **Screenshots**
+
+![image](https://github.com/user-attachments/assets/a83106a0-dc52-423d-b1ad-124e2f86da7a)
+![image](https://github.com/user-attachments/assets/105bdd0f-5b52-43ed-90c6-c990abfeebda)
+![image](https://github.com/user-attachments/assets/119b13fe-1615-4010-9b20-f3998295202b)
+![image](https://github.com/user-attachments/assets/40403d4f-7286-41e1-b784-62cedf071222)
+
 ## **Project Overview**
 
 This Excel project is designed to analyze key organizational metrics and visualize data through an interactive dashboard. The project contains the following components:
@@ -36,13 +43,6 @@ The highlight of this project is an **interactive dashboard** that provides insi
   - **SUMIFS** to calculate department-specific salary totals.
   - **Conditional Formatting**: Highlights important trends (e.g., performance below average).
 - **Dynamic Slicers**: Allow users to interact with the dashboard and visualize department-specific data dynamically.
-
-## **Screenshots**
-
-![image](https://github.com/user-attachments/assets/a83106a0-dc52-423d-b1ad-124e2f86da7a)
-![image](https://github.com/user-attachments/assets/105bdd0f-5b52-43ed-90c6-c990abfeebda)
-![image](https://github.com/user-attachments/assets/119b13fe-1615-4010-9b20-f3998295202b)
-![image](https://github.com/user-attachments/assets/40403d4f-7286-41e1-b784-62cedf071222)
 
 
 ## **How to Use**
